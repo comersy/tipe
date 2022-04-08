@@ -1,3 +1,3 @@
 def f():
     print("Hello from a.py")
-    return 42
+    return 43
